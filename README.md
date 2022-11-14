@@ -1,5 +1,5 @@
 # Demo_ACFT_tracker_Java
-Purpose of the ACFT tracker is to track the Army Combat Fitness Test (ACFT) for each personnel. The scope of the application can be used within a small group. The objectective of the application is to have a record of the ACFT record electronically. It can also be used to plan an ACFT accordingly from the last ACFT taken.
+This is my second project that I developed in Coding Dojo. I have used Java language utilizing Spring Tool Suite Integrated Development Environment and MySQL database in this project. The Purpose of the ACFT tracker is to track the Army Combat Fitness Test (ACFT) for each personnel. The scope of the application can be used within a small group. The objectective of the application is to have a record of the ACFT record electronically. It can also be used to plan an ACFT accordingly from the last ACFT taken.
 
 # Login_Registration
 ![Login_Registration](https://user-images.githubusercontent.com/105179017/200669755-2999fec4-b32d-4eb0-8dc8-f35b0a534e9a.png)
